@@ -14,7 +14,7 @@ namespace HeroVsGoblin01.Tests
   public class Tile_Should
   {
     [Fact]
-    public void InitialisePositionAndSymbol_ON_Construction()
+    public void InitialisePositions_OnConstruction()
     {
       int posX = 9;
       int posY = 11;
